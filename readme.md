@@ -20,10 +20,12 @@ Uso de herramientas de visualizacion (barplot, pieplot, regplot,scatterplot y li
 Evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes mediante la aplicacion de técnicas de A/B Testing y realizando un análisis descriptivo.
 
 ## Los Datos 📋
-Los archivo son 2 csv diferentes que contienen la siguientes variables :
+La carpeta Data tiene dos archivos csv diferentes:
 
  - Customer Flight Activity.csv
- - Data/Customer Loyalty History.csv
+ - Customer Loyalty History.csv
+
+ Desde el file evaluacion.ipynb se podrá descargar un csv con la fase 1 realizada de limpieza y normalización.
 
 ## Bibliotecas utilizadas de Python: 📚
 
