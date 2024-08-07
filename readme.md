@@ -17,7 +17,7 @@ Uso de herramientas de visualizacion (barplot, pieplot, regplot,scatterplot y li
     Cómo se distribuyen los clientes según su estado civil y género?
 
 ### *Fase 3: Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo* 🟰
-Evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes mediante la aplicacion de técnicas de A/B Testing y realizando un análisis descriptivo.
+Evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes mediante la realización de un análisis estadístico descriptivo y aplicación de técnicas de A/B Testing como test Saphiro, Levene y Mann Whitney.
 
 ## Los Datos 📋
 La carpeta Data tiene dos archivos csv diferentes:
